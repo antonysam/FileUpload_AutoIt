@@ -3,7 +3,7 @@ uploading file using AutoIT
 
 ## This script is used to test the following
 ```
-1.launch the browser and executes the GUI command scripted using AutoIT 
+1.Launch the browser and executes the GUI command scripted using AutoIT 
 2.GUI command scripted for automating the file upload scenario
 ```
 ## Pre-requisites
@@ -14,9 +14,10 @@ uploading file using AutoIT
 ## AutoIT locator
 ![](https://github.com/antonysam/FileUpload_AutoIt/blob/master/Images/Filename_field.JPG)<br/>
 
-![](https://github.com/antonysam/FileUpload_AutoIt/blob/master/Images/AutoIT(Frozen).JPG)<br/>
+![](https://github.com/antonysam/FileUpload_AutoIt/blob/master/Images/AutoIT_filename_edit.JPG)<br/>
 
-![](https://github.com/antonysam/FileUpload_AutoIt/blob/master/Images/open_button.JPG)
+![](https://github.com/antonysam/FileUpload_AutoIt/blob/master/Images/open_button.JPG)<br/>
+![](https://github.com/antonysam/FileUpload_AutoIt/blob/master/Images/AutoIT(Frozen).JPG)
 
 ```
 Using the Finder tool need to locate the element present in the Window GUI
